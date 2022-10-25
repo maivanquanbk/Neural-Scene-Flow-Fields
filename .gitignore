@@ -1,0 +1,7 @@
+nerf_data
+nsff_exp/logs
+nsff_scripts/models
+*.pyc
+*.png
+*.jpg
+model.pt
